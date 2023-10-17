@@ -1,2 +1,1 @@
-# references-in-geography
-To get familiar about the landscape of your country and the world.
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/references-in-geography/wiki
