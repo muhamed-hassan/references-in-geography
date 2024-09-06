@@ -6,5 +6,6 @@
 It is a good reference if you're **`an under-graduate-military-student`** AKA a future-officier to read the maps as a clear text before moving to electronic devices. As using [latitude](https://en.wikipedia.org/wiki/Latitude) and [longitude](https://en.wikipedia.org/wiki/Longitude) to move to a certain location on the map.
 
 ***
+***
 
-![Dq6o3uI](https://github.com/muhamed-hassan/references-in-geography/assets/17825804/a01380a9-85b0-4582-8d2a-c4634e481cf3)
+![dgmxmsq-f2ca9794-698b-4ba8-8de9-4fbba5f237bd](https://github.com/user-attachments/assets/4d9edfd4-14b2-4f52-9641-898def8787f7)
